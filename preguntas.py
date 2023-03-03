@@ -29,7 +29,7 @@ def pregunta_01():
     214
 
     """
-        #respuesta punto1
+        #respuesta punto1.....
     suma = 0
     for lista in datos:
         suma += int(lista[1])
